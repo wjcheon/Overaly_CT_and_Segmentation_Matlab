@@ -2,15 +2,15 @@
 This code is written for image overlay among CT, ture, and prediction map
 
 ### Example 1   
-<img src = https://github.com/wjcheon/CBCT_Gate_optm/blob/master/CBCT_Geometry.png />  
+<img src = https://github.com/wjcheon/Overaly_CT_and_Segmentation_Matlab/blob/master/Grountruth_Prediction_01.png />  
 Fig.1 Geometry of simulation: Cylinderical phamtom and detector   
 
 ### Example 2
-<img src = https://github.com/wjcheon/CBCT_Gate_optm/blob/master/rays.png />
+<img src = https://github.com/wjcheon/Overaly_CT_and_Segmentation_Matlab/blob/master/Grountruth_Prediction_02.png />
 Fig.2 Snapshot of simulation when some particles were irradiated to detector.   
 
 
-date: 2017.1.24    
+date: 2018.03.08
 All rights of this code reserved to **Steven L. Eddins** and **Wonjoong Cheon**
 
 If you have any question for this code, please send the e-mail to me.  
