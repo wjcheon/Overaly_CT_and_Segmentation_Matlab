@@ -11,7 +11,7 @@ This code is written for image overlay among CT, ture, and prediction map
     
       
         
-date: 2018.03.08
+date: 2018.03.08  
 All rights of this code reserved to **Steven L. Eddins** and **Wonjoong Cheon**
 
 If you have any question for this code, please send the e-mail to me.  
